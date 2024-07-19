@@ -1,15 +1,19 @@
-# Basic Sample Hardhat Project
+# Decentralized Domain Service on Polygon
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+![buildspace](https://github.com/user-attachments/assets/5732eb1c-35b9-4a2d-af0f-33965fc0ff2d)
 
-Try running some of the following tasks:
+## Inspiration
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+This is a project created by Buildspace called "Build your own domain service on a Polygon L2 in a weekend", which I decided to take on and create.
+
+## Challenges Faced
+
+Understanding the intracacies of the Polygon L2 blockchain.
+
+## Lessons Learned
+
+Learned about domain registration on the blockchain and how to manage those said domains.
+
+## The Website
+
+This website is a decentralized domain name service built on Polygon's Layer 2 blockchain. It allows users to register, manage, and resolve domain names in a decentralized manner, leveraging the scalability and low transaction costs of the Polygon network.
